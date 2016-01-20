@@ -6,7 +6,7 @@ local string = require "string"
 local table = require "table"
 local target = require "target"
 
-description = [[ Find open .svn directories ]]
+description = [[ Find open DVCS directories ]]
 portrule = shortport.http
 
 ---
